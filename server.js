@@ -34,3 +34,5 @@ db.sequelize.sync().then(function() {
     );
   });
 });
+
+// And we're done.
